@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search_prompt">Enter Search Query</string>
+    <string name="search_label">Search</string>
+    <string name="image_title">Image Title</string>
+    <string name="FilterActivityTitle">Advanced Search Options</string>
+    <string name="ImageSizeFilter">Image Size</string>
+    <string name="FilterActivitySaveButton">Save</string>
+</resources>
